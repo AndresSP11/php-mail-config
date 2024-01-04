@@ -1,0 +1,17 @@
+{
+    "name": "el_bu/php-mailer",
+    "autoload": {
+        "psr-4": {
+            "ElBu\\PhpMailer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Andres",
+            "email": "andres.salazar.p@uni.pe"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.9.1"
+    }
+}
